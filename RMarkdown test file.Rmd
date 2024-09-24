@@ -1,6 +1,6 @@
 ---
 title: "Summarize mtcars data"
-author: "Bill Myers"
+author: "Luke King"
 date: "`r Sys.Date()`"
 output:
   html_document:
